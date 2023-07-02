@@ -8,5 +8,6 @@
 
 
 
-![image](https://github.com/MayBornWitIt/Sakila_Core/assets/126980733/9986f33e-e71b-4cc6-a330-6628b6cdc0b0)
+![image](https://github.com/MayBornWitIt/Sakila_Core/assets/126980733/0ee97a6d-f855-4dcf-9b12-552b4d40b991)
+
 
